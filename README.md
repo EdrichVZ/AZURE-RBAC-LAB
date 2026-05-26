@@ -10,7 +10,7 @@ This project demonstrates the implementation of Azure Role-Based Access Control 
 - Azure CLI
 (The lab is based on the Microsoft AZ-500 Azure Security Technologies training exercises).
 
-## Objectives:
+## Objectives(Completed):
 
 - Created Microsoft Entra ID users
 - Created security groups
