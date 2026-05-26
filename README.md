@@ -27,3 +27,6 @@ This project demonstrates the implementation of Azure Role-Based Access Control 
 - Azure PowerShell
 - Azure CLI
 - Cloud Shell
+
+## Task 1:
+- Create a Senior Admins group containing the user account of Joseph Price as its member.
